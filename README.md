@@ -2,6 +2,12 @@
 Inspired by the classic snake game. Made using python and the pygame library!
 
 # How to use:
+
+Clone the repo with:
+```
+git clone git@github.com:RiannReis/snake_game.git
+```
+
 Need to have python installed and use pip for install pygame _(preferable in a venv)_
 - `python -m venv env`
 - `source env/bin/activate`
